@@ -2250,7 +2250,8 @@ button.theme-btn {
   .copyright-area .copyright-right {
     display: flex;
     gap: 10rem;
-    align-items: center; }
+    align-items: center;}
+    
 
 .copyright-menu a,
 .copyright-text {
@@ -2384,6 +2385,9 @@ p.mb-0.contact_itext {
   background-image: -ms-linear-gradient( 122deg, rgb(120,84,247) 0%, rgb(105,69,233) 100%);
 }
 /*-------- Preloader --------*/
+
+
+
 .preloader {
   position: fixed;
   width: 100%;
