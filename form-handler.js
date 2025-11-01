@@ -1,4 +1,5 @@
 function handleSubmit(event) {
+    alert('Form submitted!');
     event.preventDefault();
 
     const form = event.target;
@@ -32,4 +33,5 @@ function handleSubmit(event) {
     });
 
     return false;
+
 }
